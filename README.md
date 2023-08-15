@@ -1,16 +1,4 @@
-# demo02
+### 一些杂七杂八的代码记录
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 记录了`github actions`自动对`flutter`的包并对包进行发布到release上去
+- 第三方状态管理插件`flutter_riverpod`的简单使用
